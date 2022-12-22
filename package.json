@@ -1,0 +1,8 @@
+{
+  "name": "node-proxy-server",
+  "packageManager": "yarn@3.3.1",
+  "scripts": {
+    "start": "yarn node app.js"
+  },
+  "type": "module"
+}
